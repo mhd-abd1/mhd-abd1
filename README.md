@@ -1,102 +1,95 @@
 <h1 align="center">Muhammad Abdullah</h1>
 
+<h3 align="center">Computer Science Student | Cybersecurity & AI/ML Enthusiast</h3>
+
 <p align="center">
-Computer Science • Cybersecurity • AI / ML Engineering
+  <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=3500&color=00C2A8&center=true&vCenter=true&width=650&lines=Interested+in+Cybersecurity+%26+Secure+Systems;Exploring+AI%2FML+and+Deep+Learning;Building+Practical+Software+Projects;Focused+on+Computer+Science+Fundamentals" />
 </p>
 
 ---
 
 ## About Me
 
-I am a Computer Science student interested in how systems work at a deeper level — especially in the areas of cybersecurity, artificial intelligence, and software engineering.
+I’m a Computer Science student focused on understanding how software systems work under the hood — especially in areas like security, automation, and intelligent systems.
 
-My main focus is understanding how real-world systems are built, how they fail, and how they can be improved through better engineering and intelligent automation.
-
-I spend most of my time learning and building projects in:
-- cybersecurity fundamentals and web security concepts
-- machine learning and deep learning basics
-- core computer science (algorithms, data structures, networking, operating systems)
+My main interest lies in **cybersecurity and system design**, with growing experience in **AI and machine learning**. I like building small but practical projects that help me understand real-world systems rather than just theory.
 
 ---
 
 ## Interests
 
-- Cybersecurity (web security, system security, and defensive thinking)
-- Artificial Intelligence and Machine Learning
-- Software engineering and backend systems
+- Cybersecurity (web security, system security fundamentals)
+- Artificial Intelligence & Machine Learning
+- Software engineering and system design
 - Data structures and algorithms
-- Automation and data extraction systems
+- Automation and data extraction tools
 
 ---
 
-## What I’m Working On
+## What I’m Currently Working On
 
-I prefer building practical systems rather than purely theoretical projects. Some areas I actively work on:
-
-- security-focused tools and scripts
-- AI-based automation systems
-- data scraping and processing tools
-- small-scale system design projects
-- improving problem-solving through DSA practice
+- Learning how real-world web applications are secured and attacked
+- Strengthening core CS fundamentals (DSA, OS, Networks)
+- Building small AI/automation tools for practice
+- Improving problem-solving and coding consistency
 
 ---
 
-## Technical Skills
+## Tech Stack
 
 **Languages**
-- Python
-- JavaScript
-- TypeScript
-- C++
+- Python, JavaScript, TypeScript, C++
 
-**Core Areas**
-- Data Structures & Algorithms
-- Computer Networks
-- Operating Systems (fundamentals)
-- Web Security basics (OWASP concepts)
+**Web Development**
+- React, Node.js, Next.js, Express
 
-**Tools & Frameworks**
-- Node.js
-- React
-- Next.js
-- Linux (basic command-line usage)
-- Git & GitHub
+**AI / Data**
+- Pandas, NumPy, Scikit-learn, basic PyTorch/TensorFlow
+
+**Systems & Security (Learning)**
+- Linux, Bash, Networking fundamentals, security concepts
 
 ---
 
-## Current Learning Goals
+## Projects (Learning-Focused)
 
-- strengthen cybersecurity fundamentals (network + web security)
-- improve machine learning understanding (not just libraries, but concepts)
-- become stronger in DSA and problem solving
-- learn system design basics
-- build more real-world projects instead of tutorials
+I mainly build projects for learning and exploration, such as:
 
----
-
-## Projects
-
-Most of my work is focused on learning-based and practical systems, including:
-
-- automation tools for real-world workflows
-- data extraction and analysis scripts
-- beginner-level cybersecurity experiments and security testing tools
-- small AI/ML-based projects for learning applied concepts
+- Simple security tools and scanners (for educational purposes)
+- Web scraping and automation scripts
+- Basic machine learning models
+- Small full-stack applications
+- Algorithm and data structure implementations
 
 ---
 
-## Long-Term Direction
+## Goals
 
-My goal is to pursue Computer Science at university and specialize in areas where software systems and intelligence overlap, especially cybersecurity and AI-driven systems.
+- Build strong foundations in Computer Science
+- Develop solid understanding of cybersecurity principles
+- Gain practical experience in AI/ML systems
+- Contribute to open-source projects
+- Prepare for admission into a strong CS/AI program
 
-I am particularly interested in roles that involve building secure and scalable software systems.
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+</p>
 
 ---
 
 ## Contact
 
-GitHub: (add link)  
-Email: (add email)  
-LinkedIn: (optional)
+- GitHub: YOUR_USERNAME  
+- Email: YOUR_EMAIL  
 
 ---
+
+> “I’m focused on understanding systems deeply, not just using them.”
