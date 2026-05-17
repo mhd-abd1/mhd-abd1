@@ -1,99 +1,102 @@
-<!-- ███████████████████████████████████████████████████████████████ -->
-<!--  CYBER SECURITY + AI/ML ELITE GITHUB PROFILE (SILICON VALLEY STYLE) -->
-<!-- ███████████████████████████████████████████████████████████████ -->
+<h1 align="center">Muhammad Abdullah</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=2500&color=00FF00&center=true&vCenter=true&width=900&lines=INITIALIZING+SECURE+SYSTEM...;ACCESS+GRANTED:+MUHAMMAD+ABDULLAH;LOADING+CYBERSECURITY+PROFILE...;LOADING+AI+%2F+ML+ENGINEERING+MODULE...;SYSTEM+READY+FOR+EXECUTION" />
+Computer Science • Cybersecurity • AI / ML Engineering
 </p>
 
-# 🧬 SYSTEM PROFILE: MUHAMMAD ABDULLAH
+---
 
-USER: Muhammad Abdullah  
-ROLE: Cybersecurity Engineer | AI/ML Developer | Computer Science Builder  
-STATUS: BUILDING SECURE + INTELLIGENT SYSTEMS  
-CLEARANCE: DEVELOPER LEVEL ACCESS  
-LOCATION: SECURE NODE (Pakistan)  
+## About Me
 
-## 🔐 CYBERSECURITY MODULE
+I am a Computer Science student interested in how systems work at a deeper level — especially in the areas of cybersecurity, artificial intelligence, and software engineering.
 
-✔ Network Security Fundamentals  
-✔ Web Application Security (OWASP Awareness)  
-✔ System Vulnerability Analysis (Learning Phase)  
-✔ Secure Architecture Thinking  
-✔ Linux Environment Mastery (Ongoing)  
+My main focus is understanding how real-world systems are built, how they fail, and how they can be improved through better engineering and intelligent automation.
 
-## 🤖 AI / MACHINE LEARNING MODULE
+I spend most of my time learning and building projects in:
+- cybersecurity fundamentals and web security concepts
+- machine learning and deep learning basics
+- core computer science (algorithms, data structures, networking, operating systems)
 
-FOCUS AREAS:  
-- Machine Learning Systems  
-- Deep Learning Fundamentals  
-- Neural Networks  
-- AI Automation Tools  
-- Data-driven Intelligence Systems  
+---
 
-STATUS: TRAINING KNOWLEDGE BASE... ███████████▒ 80%  
+## Interests
 
-## 💻 COMPUTER SCIENCE CORE
+- Cybersecurity (web security, system security, and defensive thinking)
+- Artificial Intelligence and Machine Learning
+- Software engineering and backend systems
+- Data structures and algorithms
+- Automation and data extraction systems
 
-DATA STRUCTURES        ███████████▒  
-ALGORITHMS             ███████████▒  
-OPERATING SYSTEMS      ██████████▒▒  
-COMPUTER NETWORKS      ██████████▒▒  
-DATABASE SYSTEMS       ███████████▒  
-SYSTEM DESIGN          ██████████▒▒  
+---
 
-## ⚒️ TECH STACK
+## What I’m Working On
 
-<img src="https://img.shields.io/badge/Python-00FF00?style=for-the-badge&logo=python&logoColor=black"/>  
-<img src="https://img.shields.io/badge/JavaScript-00FF00?style=for-the-badge&logo=javascript&logoColor=black"/>  
-<img src="https://img.shields.io/badge/TypeScript-00FF00?style=for-the-badge&logo=typescript&logoColor=black"/>  
-<img src="https://img.shields.io/badge/C++-00FF00?style=for-the-badge&logo=c%2B%2B&logoColor=black"/>  
-<img src="https://img.shields.io/badge/Linux-00FF00?style=for-the-badge&logo=linux&logoColor=black"/>  
-<img src="https://img.shields.io/badge/TensorFlow-00FF00?style=for-the-badge&logo=tensorflow&logoColor=black"/>  
-<img src="https://img.shields.io/badge/PyTorch-00FF00?style=for-the-badge&logo=pytorch&logoColor=black"/>  
+I prefer building practical systems rather than purely theoretical projects. Some areas I actively work on:
 
-## 🚀 ACTIVE PROJECTS
+- security-focused tools and scripts
+- AI-based automation systems
+- data scraping and processing tools
+- small-scale system design projects
+- improving problem-solving through DSA practice
 
-[+] AI Automation Systems  
-[+] Web Scraping Intelligence Engines  
-[+] Cybersecurity Learning Tools  
-[+] Data Extraction & Analysis Systems  
-[+] Secure Full-Stack Applications  
+---
 
-## 🧠 ENGINEERING PHILOSOPHY
+## Technical Skills
 
-"Understand systems deeply.  
-Break them mentally.  
-Rebuild them stronger, smarter, and more secure."
+**Languages**
+- Python
+- JavaScript
+- TypeScript
+- C++
 
-## 📊 GITHUB ANALYTICS
+**Core Areas**
+- Data Structures & Algorithms
+- Computer Networks
+- Operating Systems (fundamentals)
+- Web Security basics (OWASP concepts)
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=chartreuse-dark&hide_border=true"/>  
+**Tools & Frameworks**
+- Node.js
+- React
+- Next.js
+- Linux (basic command-line usage)
+- Git & GitHub
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark&hide_border=true"/>  
+---
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=matrix&no-frame=true&row=1"/>  
+## Current Learning Goals
 
-## 🎯 FUTURE ROADMAP
+- strengthen cybersecurity fundamentals (network + web security)
+- improve machine learning understanding (not just libraries, but concepts)
+- become stronger in DSA and problem solving
+- learn system design basics
+- build more real-world projects instead of tutorials
 
-[🎓] Top Computer Science / AI University Admission  
-[🔐] Cybersecurity Specialization Path  
-[🤖] AI / ML Engineer Development Path  
-[💻] Advanced System Design Mastery  
-[🚀] SaaS + Security Tool Creation  
+---
 
-## 📡 CONTACT
+## Projects
 
-<img src="https://img.shields.io/badge/GITHUB-00FF00?style=for-the-badge&logo=github&logoColor=black"/> https://github.com/YOUR_USERNAME  
-<img src="https://img.shields.io/badge/EMAIL-00FF00?style=for-the-badge&logo=gmail&logoColor=black"/> YOUR_EMAIL  
+Most of my work is focused on learning-based and practical systems, including:
 
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+- automation tools for real-world workflows
+- data extraction and analysis scripts
+- beginner-level cybersecurity experiments and security testing tools
+- small AI/ML-based projects for learning applied concepts
 
-## ⚡ SYSTEM MESSAGE
+---
 
-Security is not a feature.  
-It is the foundation of every system I build.  
+## Long-Term Direction
 
-<!-- ███████████████████████████████████████████████████████████████ -->
-<!-- END OF TRANSMISSION -->
-<!-- ███████████████████████████████████████████████████████████████ -->
+My goal is to pursue Computer Science at university and specialize in areas where software systems and intelligence overlap, especially cybersecurity and AI-driven systems.
+
+I am particularly interested in roles that involve building secure and scalable software systems.
+
+---
+
+## Contact
+
+GitHub: (add link)  
+Email: (add email)  
+LinkedIn: (optional)
+
+---
