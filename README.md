@@ -44,15 +44,12 @@ I like approaching technology by understanding both how systems are built and ho
 
 ### Languages
 
-<img src="https://skillicons.dev/icons?i=python,javascript,cpp,html,css" />
+<img src="https://skillicons.dev/icons?i=python,javascript,html,css" />
 
 ### Tools & Technologies
 
-<img src="https://skillicons.dev/icons?i=linux,git,github,vscode,nodejs,react" />
+<img src="https://skillicons.dev/icons?i=linux,git,github,vscode,nodejs,react,tensorflow" />
 
-### Currently Learning
-
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,bash,mysql" />
 
 </p>
 
