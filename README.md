@@ -58,38 +58,6 @@ I like approaching technology by understanding both how systems are built and ho
 
 ---
 
-## Current Learning Journey
-
-text
-Computer Science Fundamentals
-        ↓
-Programming & Problem Solving
-        ↓
-Cybersecurity + Networking
-        ↓
-AI / Machine Learning
-        ↓
-Building Real-World Projects
-
-Projects
-
-Some of the areas I enjoy building and experimenting with:
-
-security-related scripts and tools
-automation projects
-web scraping systems
-machine learning experiments
-small full-stack applications
-algorithm and data structure implementations
-Goals
-Develop strong computer science fundamentals
-Build practical cybersecurity and AI projects
-Contribute to meaningful technical projects
-Continuously improve problem-solving skills
-Learn how scalable and secure systems are designed
-
-GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D1117"/> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/> </p>
 Learning Platforms
 <p align="center"> <a href="https://www.freecodecamp.org/"> <img src="https://img.shields.io/badge/freeCodeCamp-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white"/> </a> <a href="https://tryhackme.com/"> <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red"/> </a> <a href="https://www.kaggle.com/"> <img src="https://img.shields.io/badge/Kaggle-0D1117?style=for-the-badge&logo=kaggle&logoColor=20BEFF"/> </a> <a href="https://www.netacad.com/"> <img src="https://img.shields.io/badge/Cisco_Networking_Academy-0D1117?style=for-the-badge&logo=cisco&logoColor=1BA0D7"/> </a> </p>
 Connect
