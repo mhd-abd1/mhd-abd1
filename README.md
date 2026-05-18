@@ -50,23 +50,3 @@ I like approaching technology by understanding both how systems are built and ho
 
 <img src="https://skillicons.dev/icons?i=linux,git,github,vscode,nodejs,react" />
 
-### Currently Learning
-
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,bash,mysql" />
-
-</p>
-
----
-
-## Current Learning Journey
-
-```text
-Computer Science Fundamentals
-        ↓
-Programming & Problem Solving
-        ↓
-Cybersecurity + Networking
-        ↓
-AI / Machine Learning
-        ↓
-Building Real-World Projects
