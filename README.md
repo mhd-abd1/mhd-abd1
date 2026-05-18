@@ -50,6 +50,15 @@ I like approaching technology by understanding both how systems are built and ho
 
 <img src="https://skillicons.dev/icons?i=linux,git,github,vscode,nodejs,react,tensorflow" />
 
+### AI APIs & Platforms
+
+<img src="https://img.shields.io/badge/OpenAI_API-0D1117?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Claude_AI-0D1117?style=for-the-badge&logo=anthropic&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google_Gemini-0D1117?style=for-the-badge&logo=google&logoColor=4285F4"/>
+<img src="https://img.shields.io/badge/xAI_Grok-0D1117?style=for-the-badge&logo=x&logoColor=white"/>
+<img src="https://img.shields.io/badge/HuggingFace-0D1117?style=for-the-badge&logo=huggingface&logoColor=FFD21E"/>
+
+
 
 </p>
 
