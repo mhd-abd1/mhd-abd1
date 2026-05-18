@@ -13,7 +13,7 @@ Computer Science Enthusiast • Cybersecurity Learner • AI/ML Explorer
 
 ## About Me
 
-I enjoy learning how systems work behind the scenes — especially in areas like cybersecurity, automation, and intelligent software systems.
+I enjoy learning how systems work behind the scenes, especially in areas like cybersecurity, automation, and intelligent software systems.
 
 Most of my time is currently focused on:
 - strengthening computer science fundamentals
