@@ -52,8 +52,68 @@ I like approaching technology by understanding both how systems are built and ho
 
 ### Learning Platforms
 
-<p align="center"> <a href="https://www.freecodecamp.org/"> <img src="https://img.shields.io/badge/freeCodeCamp-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white"/> </a> <a href="https://tryhackme.com/"> <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red"/> </a> <a href="https://www.kaggle.com/"> <img src="https://img.shields.io/badge/Kaggle-0D1117?style=for-the-badge&logo=kaggle&logoColor=20BEFF"/> </a> <a href="https://www.netacad.com/"> <img src="https://img.shields.io/badge/Cisco_Networking_Academy-0D1117?style=for-the-badge&logo=cisco&logoColor=1BA0D7"/> </a> <a href="https://www.udemy.com/"> <img src="https://img.shields.io/badge/Udemy-0D1117?style=for-the-badge&logo=udemy&logoColor=A435F0"/> </a> <a href="https://www.edx.org/"> <img src="https://img.shields.io/badge/edX-0D1117?style=for-the-badge&logo=edx&logoColor=02262B"/> </a> <a href="https://cs50.harvard.edu/x/"> <img src="https://img.shields.io/badge/Harvard_CS50-0D1117?style=for-the-badge&logo=harvard&logoColor=A51C30"/> </a> </p>
+<p align="center">
 
-## Connect
+<a href="https://www.freecodecamp.org/">
+  <img src="https://img.shields.io/badge/freeCodeCamp-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white"/>
+</a>
 
-<p align="center"> <a href="https://github.com/YOUR_USERNAME"> <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/> </a> <a href="mailto:YOUR_EMAIL"> <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335"/> </a> </p>
+<a href="https://tryhackme.com/">
+  <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red"/>
+</a>
+
+<a href="https://www.kaggle.com/">
+  <img src="https://img.shields.io/badge/Kaggle-111111?style=for-the-badge&logo=kaggle&logoColor=20BEFF"/>
+</a>
+
+<a href="https://www.netacad.com/">
+  <img src="https://img.shields.io/badge/Cisco_NetAcad-111111?style=for-the-badge&logo=cisco&logoColor=1BA0D7"/>
+</a>
+
+<a href="https://www.udemy.com/">
+  <img src="https://img.shields.io/badge/Udemy-111111?style=for-the-badge&logo=udemy&logoColor=A435F0"/>
+</a>
+
+<a href="https://www.edx.org/">
+  <img src="https://img.shields.io/badge/edX-02262B?style=for-the-badge&logo=edx&logoColor=white"/>
+</a>
+
+<a href="https://cs50.harvard.edu/x/">
+  <img src="https://img.shields.io/badge/CS50_Harvard-111111?style=for-the-badge&logo=harvard&logoColor=A51C30"/>
+</a>
+
+<a href="https://www.coursera.org/">
+  <img src="https://img.shields.io/badge/Coursera-111111?style=for-the-badge&logo=coursera&logoColor=0056D2"/>
+</a>
+
+<a href="https://www.hackthebox.com/">
+  <img src="https://img.shields.io/badge/Hack_The_Box-111111?style=for-the-badge&logo=hackthebox&logoColor=9FEF00"/>
+</a>
+
+</p>
+
+### Connect
+
+<p align="center">
+
+<a href="https://github.com/YOUR_USERNAME">
+  <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+  <img src="https://img.shields.io/badge/Gmail-111111?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
+</a>
+
+<a href="https://www.linkedin.com/">
+  <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+</a>
+
+<a href="https://discord.com/">
+  <img src="https://img.shields.io/badge/Discord-111111?style=for-the-badge&logo=discord&logoColor=5865F2"/>
+</a>
+
+<a href="https://x.com/">
+  <img src="https://img.shields.io/badge/X%20(Twitter)-111111?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+
+</p>
