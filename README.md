@@ -60,7 +60,7 @@ I like approaching technology by understanding both how systems are built and ho
 
 ## Current Learning Journey
 
-```text
+text
 Computer Science Fundamentals
         ↓
 Programming & Problem Solving
