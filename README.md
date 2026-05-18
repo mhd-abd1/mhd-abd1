@@ -44,7 +44,7 @@ I like approaching technology by understanding both how systems are built and ho
 
 ### Languages
 
-<img src="https://skillicons.dev/icons?i=python,javascript,cpp,html,css" />
+<img src="https://skillicons.dev/icons?i=python,javascript,html,css" />
 
 ### Tools & Technologies
 
