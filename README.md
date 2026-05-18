@@ -30,7 +30,7 @@ I like approaching technology by understanding both how systems are built and ho
 <p align="center">
 
 <img src="https://img.shields.io/badge/Cybersecurity-0D1117?style=for-the-badge&logo=hackthebox&logoColor=9FEF00"/>
-<img src="https://img.shields.io/badge/AI%20%26%20Machine%20Learning-0D1117?style=for-the-badge&logo=tensorflow&logoColor=FF6F00"/>
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-0D1117?style=for-the-badge&logo=pytorch&logoColor=EE4C2C"/>
 <img src="https://img.shields.io/badge/Machine_Learning-0D1117?style=for-the-badge&logo=tensorflow&logoColor=FF6F00"/>
 <img src="https://img.shields.io/badge/Computer_Science-0D1117?style=for-the-badge&logo=linux&logoColor=FCC624"/>
 
