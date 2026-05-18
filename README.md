@@ -19,7 +19,7 @@ Most of my time is currently focused on:
 - strengthening computer science fundamentals
 - learning cybersecurity concepts and secure system design
 - exploring AI and machine learning
-- building practical projects for learning and experimentation
+- building small practical projects for learning
 
 I like approaching technology by understanding both how systems are built and how they can be secured.
 
@@ -38,29 +38,21 @@ I like approaching technology by understanding both how systems are built and ho
 
 ---
 
-# Tech Stack
+## Tech Stack
 
 <p align="center">
 
 ### Languages
 
-<img src="https://skillicons.dev/icons?i=python,javascript,html,css" />
-
-<br><br>
+<img src="https://skillicons.dev/icons?i=python,javascript,cpp,html,css" />
 
 ### Tools & Technologies
 
-<img src="https://skillicons.dev/icons?i=linux,git,github,vscode,nodejs,react,tensorflow" />
+<img src="https://skillicons.dev/icons?i=linux,git,github,vscode,nodejs,react" />
 
-<br><br>
+### Currently Learning
 
-### AI APIs & Platforms
-
-<img src="https://img.shields.io/badge/OpenAI_API-0D1117?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/Claude_AI-0D1117?style=for-the-badge&logo=anthropic&logoColor=white"/>
-<img src="https://img.shields.io/badge/Google_Gemini-0D1117?style=for-the-badge&logo=google&logoColor=4285F4"/>
-<img src="https://img.shields.io/badge/xAI_Grok-0D1117?style=for-the-badge&logo=x&logoColor=white"/>
-<img src="https://img.shields.io/badge/HuggingFace-0D1117?style=for-the-badge&logo=huggingface&logoColor=FFD21E"/>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,bash,mysql" />
 
 </p>
 
