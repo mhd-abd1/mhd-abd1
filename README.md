@@ -60,6 +60,7 @@ I like approaching technology by understanding both how systems are built and ho
 
 ### Learning Platforms
 <p align="center"> <a href="https://www.freecodecamp.org/"> <img src="https://img.shields.io/badge/freeCodeCamp-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white"/> </a> <a href="https://tryhackme.com/"> <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red"/> </a> <a href="https://www.kaggle.com/"> <img src="https://img.shields.io/badge/Kaggle-0D1117?style=for-the-badge&logo=kaggle&logoColor=20BEFF"/> </a> <a href="https://www.netacad.com/"> <img src="https://img.shields.io/badge/Cisco_Networking_Academy-0D1117?style=for-the-badge&logo=cisco&logoColor=1BA0D7"/> </a> </p>
+
 ### Connect
 <p align="center"> <a href="https://github.com/YOUR_USERNAME"> <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/> </a> <a href="mailto:YOUR_EMAIL"> <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335"/> </a> </p>
 <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00FFC6&height=120&section=footer"/> </p>
