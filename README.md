@@ -116,23 +116,16 @@ I like approaching technology by understanding both how systems are built and ho
   <img src="https://img.shields.io/badge/X%20(Twitter)-111111?style=for-the-badge&logo=x&logoColor=white"/>
 </a>
 
-## Certifications & Credentials
+### Certifications & Credentials
 
-### IBM Cybersecurity Fundamentals
+<table>
+<tr>
+<td width="180">
 
-**IBM · Verified Credential**
+<img src="assets/Muhammad%20Abdullah%20-%20Intro%20to%20Programming.png" width="160">
 
-Foundational cybersecurity concepts, including security principles, threats, vulnerabilities, and security practices.
-
-[View Credential →](https://www.credly.com/badges/a63618c3-285f-4dd5-9848-69ee11f505c3)
-
-### Python
-
-**Kaggle · Course Certificate**
-
-Python fundamentals, including functions, lists, loops, strings, dictionaries, and Python libraries.
-
-[View Certificate →](https://www.kaggle.com/learn/certification/dxelite/python)
+</td>
+<td>
 
 ### Intro to Programming
 
@@ -140,7 +133,11 @@ Python fundamentals, including functions, lists, loops, strings, dictionaries, a
 
 Python programming fundamentals, including variables, functions, conditionals, booleans, lists, and basic programming concepts.
 
-[View Certificate →](Muhammad%20Abdullah%20-%20Intro%20to%20Programming.png)
+[View Certificate →](https://www.kaggle.com/learn/intro-to-programming)
+
+</td>
+</tr>
+</table>
 
 
 </p>
