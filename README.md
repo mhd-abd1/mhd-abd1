@@ -118,30 +118,41 @@ I like approaching technology by understanding both how systems are built and ho
 
 ## Certifications & Credentials
 
-<a href="https://www.credly.com/badges/a63618c3-285f-4dd5-9848-69ee11f505c3">
-  <img src="https://images.credly.com/size/110x110/images/50b96632-6cbb-40b7-ac0e-b83f49ff7f94/image.png"
-       width="130"
-       alt="IBM Cybersecurity Fundamentals">
-</a>
+<table>
+<tr>
+<td width="50%" align="center">
 
 ### IBM Cybersecurity Fundamentals
-**IBM** · Verified Credential
 
-Covers foundational concepts in cybersecurity, including
-security principles, threats, vulnerabilities, and security practices.
+<a href="https://www.credly.com/badges/a63618c3-285f-4dd5-9848-69ee11f505c3">
+<img src="https://images.credly.com/size/110x110/images/a63618c3-285f-4dd5-9848-69ee11f505c3/image.png" width="180" height="180">
+</a>
+
+**IBM · Verified Credential**
+
+Foundational cybersecurity concepts, including security principles, threats, vulnerabilities, and security practices.
 
 [View Credential →](https://www.credly.com/badges/a63618c3-285f-4dd5-9848-69ee11f505c3)
 
+</td>
+
+<td width="50%" align="center">
+
 ### Python
 
-**Kaggle** · Course Certificate
+<a href="https://www.kaggle.com/learn/certification/dxelite/python">
+<img src="./assets/Muhammad%20Abdullah%20-%20Python.png" width="180" height="180">
+</a>
 
-Completed Kaggle's Python course, covering Python fundamentals,
-functions, lists, loops, strings, dictionaries, and working with
-Python libraries.
+**Kaggle · Course Certificate**
 
-[![Kaggle Python Certificate](./assets/Muhammad%20Abdullah%20-%20Python.png)](https://www.kaggle.com/learn/certification/dxelite/python)
+Python fundamentals, including functions, lists, loops, strings, dictionaries, and Python libraries.
 
 [View Certificate →](https://www.kaggle.com/learn/certification/dxelite/python)
+
+</td>
+</tr>
+</table>
+
 
 </p>
