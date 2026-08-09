@@ -118,15 +118,7 @@ I like approaching technology by understanding both how systems are built and ho
 
 ## Certifications & Credentials
 
-<table>
-<tr>
-<td width="50%" align="center">
-
 ### IBM Cybersecurity Fundamentals
-
-<a href="https://www.credly.com/badges/a63618c3-285f-4dd5-9848-69ee11f505c3">
-<img src="./assets/cybersecurity-fundamentals.png" width="220" height="220">
-</a>
 
 **IBM · Verified Credential**
 
@@ -134,15 +126,7 @@ Foundational cybersecurity concepts, including security principles, threats, vul
 
 [View Credential →](https://www.credly.com/badges/a63618c3-285f-4dd5-9848-69ee11f505c3)
 
-</td>
-
-<td width="50%" align="center">
-
 ### Python
-
-<a href="https://www.kaggle.com/learn/certification/dxelite/python">
-<img src="./assets/Muhammad%20Abdullah%20-%20Python.png" width="250" height="250" style="object-fit: contain;">
-</a>
 
 **Kaggle · Course Certificate**
 
@@ -150,9 +134,13 @@ Python fundamentals, including functions, lists, loops, strings, dictionaries, a
 
 [View Certificate →](https://www.kaggle.com/learn/certification/dxelite/python)
 
-</td>
-</tr>
-</table>
+### Intro to Programming
+
+**Kaggle · Course Certificate**
+
+Python programming fundamentals, including variables, functions, conditionals, booleans, lists, and basic programming concepts.
+
+[View Certificate →](Muhammad%20Abdullah%20-%20Intro%20to%20Programming.png)
 
 
 </p>
