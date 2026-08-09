@@ -140,6 +140,8 @@ Completed Kaggle's Python course, covering Python fundamentals,
 functions, lists, loops, strings, dictionaries, and working with
 Python libraries.
 
+[![Kaggle Python Certificate](https://www.kaggle.com/learn/certification/dxelite/python)](https://www.kaggle.com/learn/certification/dxelite/python)
+
 [View Certificate →](https://www.kaggle.com/learn/certification/dxelite/python)
 
 </p>
