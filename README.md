@@ -125,7 +125,7 @@ I like approaching technology by understanding both how systems are built and ho
 ### IBM Cybersecurity Fundamentals
 
 <a href="https://www.credly.com/badges/a63618c3-285f-4dd5-9848-69ee11f505c3">
-<img src="./assets/cybersecurity-fundamentals.png" width="250" height="250" style="object-fit: contain;">
+<img src="./assets/cybersecurity-fundamentals.png" width="220" height="220">
 </a>
 
 **IBM · Verified Credential**
