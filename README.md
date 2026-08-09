@@ -116,28 +116,13 @@ I like approaching technology by understanding both how systems are built and ho
   <img src="https://img.shields.io/badge/X%20(Twitter)-111111?style=for-the-badge&logo=x&logoColor=white"/>
 </a>
 
-### Certifications & Credentials
+## Certifications & Credentials
 
-<table>
-<tr>
-<td width="180">
-
-<img src="assets/Muhammad%20Abdullah%20-%20Intro%20to%20Programming.png" width="160">
-
-</td>
-<td>
-
-### Intro to Programming
-
-**Kaggle · Course Certificate**
-
-Python programming fundamentals, including variables, functions, conditionals, booleans, lists, and basic programming concepts.
-
-[View Certificate →](https://www.kaggle.com/learn/intro-to-programming)
-
-</td>
-</tr>
-</table>
+| Certificate | Details |
+|---|---|
+| <img src="assets/cybersecurity-fundamentals.png" width="140"> | **IBM Cybersecurity Fundamentals**<br><br>**IBM · Verified Credential**<br><br>Foundational cybersecurity concepts, including security principles, threats, vulnerabilities, and security practices.<br><br>[View Credential →](https://www.credly.com/badges/a63618c3-285f-4dd5-9848-69ee11f505c3) |
+| <img src="assets/Muhammad%20Abdullah%20-%20Python.png" width="140"> | **Python**<br><br>**Kaggle · Course Certificate**<br><br>Python fundamentals, including functions, lists, loops, strings, dictionaries, and Python libraries.<br><br>[View Certificate →](https://www.kaggle.com/learn/certification/dxelite/python) |
+| <img src="assets/Muhammad%20Abdullah%20-%20Intro%20to%20Programming.png" width="140"> | **Intro to Programming**<br><br>**Kaggle · Course Certificate**<br><br>Programming fundamentals, including variables, functions, conditionals, booleans, lists, and basic Python concepts.<br><br>[View Certificate →](https://www.kaggle.com/learn/intro-to-programming) |
 
 
 </p>
