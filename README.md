@@ -123,6 +123,7 @@ I like approaching technology by understanding both how systems are built and ho
 | <img src="assets/cybersecurity-fundamentals.png" width="140"> | **IBM Cybersecurity Fundamentals**<br><br>**IBM · Verified Credential**<br><br>Foundational cybersecurity concepts, including security principles, threats, vulnerabilities, and security practices.<br><br>[View Credential →](https://www.credly.com/badges/a63618c3-285f-4dd5-9848-69ee11f505c3) |
 | <img src="assets/Muhammad%20Abdullah%20-%20Python.png" width="140"> | **Python**<br><br>**Kaggle · Course Certificate**<br><br>Python fundamentals, including functions, lists, loops, strings, dictionaries, and Python libraries.<br><br>[View Certificate →](https://www.kaggle.com/learn/certification/dxelite/python) |
 | <img src="assets/Muhammad%20Abdullah%20-%20Intro%20to%20Programming.png" width="140"> | **Intro to Programming**<br><br>**Kaggle · Course Certificate**<br><br>Programming fundamentals, including variables, functions, conditionals, booleans, lists, and basic Python concepts.<br><br>[View Certificate →](https://www.kaggle.com/learn/intro-to-programming) |
+| <img src="assets/10577973_10916829_1786275046101-1.png" width="140"> | **Introduction to Cyber Security**<br><br>**Simplilearn · Course Certificate**<br><br>Introduction to cybersecurity concepts, including cyber threats, security fundamentals, and basic cybersecurity practices.<br><br>[View Certificate →](https://lms.simplilearn.com/courses/3736/Introduction-to-Cyber-Security/certificate/download-skillup) |
 
 
 </p>
