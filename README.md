@@ -132,4 +132,14 @@ security principles, threats, vulnerabilities, and security practices.
 
 [View Credential →](https://www.credly.com/badges/a63618c3-285f-4dd5-9848-69ee11f505c3)
 
+### Python
+
+**Kaggle** · Course Certificate
+
+Completed Kaggle's Python course, covering Python fundamentals,
+functions, lists, loops, strings, dictionaries, and working with
+Python libraries.
+
+[View Certificate →](https://www.kaggle.com/learn/certification/dxelite/python)
+
 </p>
