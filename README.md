@@ -125,7 +125,7 @@ I like approaching technology by understanding both how systems are built and ho
 ### IBM Cybersecurity Fundamentals
 
 <a href="https://www.credly.com/badges/a63618c3-285f-4dd5-9848-69ee11f505c3">
-<img src="./assets/cybersecurity-fundamentals.png" width="180" height="180">
+<img src="./assets/cybersecurity-fundamentals.png" width="250" height="250" style="object-fit: contain;">
 </a>
 
 **IBM · Verified Credential**
@@ -141,7 +141,7 @@ Foundational cybersecurity concepts, including security principles, threats, vul
 ### Python
 
 <a href="https://www.kaggle.com/learn/certification/dxelite/python">
-<img src="./assets/Muhammad%20Abdullah%20-%20Python.png" width="180" height="180">
+<img src="./assets/Muhammad%20Abdullah%20-%20Python.png" width="250" height="250" style="object-fit: contain;">
 </a>
 
 **Kaggle · Course Certificate**
