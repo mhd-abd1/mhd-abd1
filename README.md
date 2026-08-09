@@ -118,12 +118,12 @@ I like approaching technology by understanding both how systems are built and ho
 
 ## Certifications & Credentials
 
+## 🏆 Certifications & Credentials
+
 | Certificate | Details |
 |---|---|
-| <img src="certificates/Muhammad%20Abdullah%20-%20Intro%20to%20Programming.png" width="140"> | **Intro to Programming**<br><br>Certificate of Completion<br><br>Demonstrates foundational programming knowledge and problem-solving skills.<br><br>[View Certificate →](certificates/Muhammad%20Abdullah%20-%20Intro%20to%20Programming.png) |
-| <img src="certificates/10577973_10916829_1786275046101.png" width="140"> | **Introduction to Cyber Security**<br><br>**Simplilearn SkillUp — Certificate of Completion**<br><br>Successfully completed the online course covering the fundamentals of cybersecurity.<br><br>**Issued:** 9 August 2026<br>**Certificate Code:** `10577973`<br><br>[View Certificate →](certificates/10577973_10916829_1786275046101.pdf) |(https://www.credly.com/badges/a63618c3-285f-4dd5-9848-69ee11f505c3) |
-| <img src="assets/Muhammad%20Abdullah%20-%20Python.png" width="140"> | **Python**<br><br>**Kaggle · Course Certificate**<br><br>Python fundamentals, including functions, lists, loops, strings, dictionaries, and Python libraries.<br><br>[View Certificate →](https://www.kaggle.com/learn/certification/dxelite/python) |
-| <img src="assets/Muhammad%20Abdullah%20-%20Intro%20to%20Programming.png" width="140"> | **Intro to Programming**<br><br>**Kaggle · Course Certificate**<br><br>Programming fundamentals, including variables, functions, conditionals, booleans, lists, and basic Python concepts.<br><br>[View Certificate →](https://www.kaggle.com/learn/intro-to-programming) |
+| <img src="certificates/Muhammad%20Abdullah%20-%20Intro%20to%20Programming.png" width="140"> | **Introduction to Programming**<br><br>**Certificate of Completion**<br><br>Successfully completed the Introduction to Programming course.<br><br>[View Certificate →](certificates/Muhammad%20Abdullah%20-%20Intro%20to%20Programming.png) |
+| <img src="certificates/10577973_10916829_1786275046101.png" width="140"> | **Introduction to Cyber Security**<br><br>**Simplilearn SkillUp — Certificate of Completion**<br><br>Successfully completed the online course in Introduction to Cyber Security.<br><br>📅 **9 August 2026**<br>🔖 Certificate Code: `10577973`<br><br>[View Certificate →](certificates/10577973_10916829_1786275046101.pdf) |
 
 
 </p>
